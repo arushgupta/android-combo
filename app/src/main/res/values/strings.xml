@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PAFinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_flashlight">FlashlightActivity</string>
+    <string name="title_activity_keyboard">KeyboardActivity</string>
+    <string name="title_activity_graphics">GraphicsActivity</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_broadcast_receiver">BroadcastReceiverActivity</string>
+    <string name="title_activity_service">ServiceActivity</string>
+</resources>
